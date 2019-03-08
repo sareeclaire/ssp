@@ -9,4 +9,3 @@
 getElementsUpTo = (arr, index) => arr.slice(0,index)
 
 console.log(getElementsUpTo([1, 3, 5, 7, 9], 4))
-
